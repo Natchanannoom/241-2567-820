@@ -23,5 +23,5 @@ function submitData () {
     interest: interest
     }
 
-    console.log('submitData', userData)
+    console.log('submitData', userData) 
 }
